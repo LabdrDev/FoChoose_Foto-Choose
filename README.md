@@ -1,4 +1,4 @@
-# PemilahFotoPython
+# FoChoose | Foto Choose
 Ini adalah aplikasi pemilah foto, semoga dapat bermanfaat bagi semuanya.
 
 Ini adalah open-source dan semuanya boleh menggunakannya, memodifikasinya asalkan memberikan credit kepada kami.
